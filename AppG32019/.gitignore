@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AppG32019/v16
+/AppG32019/bin/Debug
+/AppG32019/obj/Debug
